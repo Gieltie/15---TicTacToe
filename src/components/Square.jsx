@@ -5,6 +5,7 @@ const style = {
     fontWeight: '800',
     cursor: 'pointer',
     outline: 'none',
+    color: 'black'
 }
 
 const Square = ({ value, onClick }) => (
